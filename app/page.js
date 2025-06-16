@@ -4,7 +4,7 @@ export default function Home() {
 		<div className="min-h-screen bg-gradient-to-br from-yellow-50 to-green-100 flex flex-col items-center py-10">
 			<div className="w-full max-w-2xl bg-white rounded-xl shadow-lg p-8">
 				<h1 className="text-3xl font-bold text-green-800 mb-2 text-center">
-					UGMU - United Graming Mahila Udyog
+					UGMU - United Gramin Mahila Udyog
 				</h1>
 				<p className="text-center text-gray-600 mb-8">
 					Empowering communities through the trading, marketing, and sale of
