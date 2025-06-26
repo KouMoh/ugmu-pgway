@@ -2,7 +2,7 @@
 import Link from "next/link";
 export default function Home() {
 	return (
-		<div className="min-h-screen bg-gradient-to-br from-yellow-50 to-green-100 flex flex-col items-center py-10">
+		<div className="min-h-screen bg-green-100 flex flex-col items-center py-10">
 			<div className="w-full max-w-2xl bg-white rounded-xl shadow-lg p-8">
 				<h1 className="text-3xl font-bold text-green-800 mb-2 text-center">
 					UGMU - United Gramin Mahila Udyog
@@ -22,7 +22,7 @@ export default function Home() {
 				<div className="flex justify-center mt-10">
 					<a
 						href="#"
-						className="bg-green-700 text-white px-8 py-3 rounded-lg font-semibold text-lg shadow hover:bg-green-800 transition"
+						className="bg-green-700 text-white px-8 py-3 rounded-lg font-semibold text-lg shadow hover:bg-red-500 transition"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
