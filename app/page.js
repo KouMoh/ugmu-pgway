@@ -26,7 +26,7 @@ export default function Home() {
 						target="_blank"
 						rel="noopener noreferrer"
 					>
-						Proceed to Payment Gateway
+						Work in Progress
 					</a>
 				</div>
 			</div>
