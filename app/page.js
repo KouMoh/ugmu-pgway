@@ -21,7 +21,7 @@ export default function Home() {
 				</div>
 				<div className="flex justify-center mt-10">
 					<a
-						href="https://your-payment-gateway-link.com"
+						href="#"
 						className="bg-green-700 text-white px-8 py-3 rounded-lg font-semibold text-lg shadow hover:bg-green-800 transition"
 						target="_blank"
 						rel="noopener noreferrer"
