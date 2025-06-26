@@ -31,7 +31,7 @@ export default function Home() {
 				</div>
 			</div>
 			<footer className="mt-8 text-gray-400 text-sm">
-				&copy; {new Date().getFullYear()} UGMU Food Processing. All rights
+				&copy; {new Date().getFullYear()} UGMU. All rights
 				reserved.
 				<div>
 					<Link href="/terms.html" className="hover:text-green-600 underline">
